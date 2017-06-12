@@ -1,18 +1,18 @@
 {
-    "name": "duotone-nature",
-    "theme": "syntax",
-    "version": "0.0.1",
-    "description": "Master template for DuoTone syntax themes",
-    "keywords": [
-        "duotone",
-        "syntax",
-        "dark",
-        "blue",
-        "green"
-    ],
-    "repository": "https://github.com/simurai/duotone-syntax",
-    "license": "MIT",
-    "engines": {
-        "atom": ">1.0.0"
-    }
+  "name": "duotone-nature",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Master template for DuoTone syntax themes",
+  "keywords": [
+    "duotone",
+    "syntax",
+    "dark",
+    "blue",
+    "green"
+  ],
+  "repository": "https://github.com/simurai/duotone-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  }
 }
