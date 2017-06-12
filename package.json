@@ -1,5 +1,5 @@
 {
-  "name": "duotone-nature",
+  "name": "duotone-nature-syntax",
   "theme": "syntax",
   "version": "0.1.0",
   "description": "Master template for DuoTone syntax themes",
@@ -10,7 +10,7 @@
     "blue",
     "green"
   ],
-  "repository": "https://github.com/simurai/duotone-syntax",
+  "repository": "https://github.com/gmpetpet/duotone-nature-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
